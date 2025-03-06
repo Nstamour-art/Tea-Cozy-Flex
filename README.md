@@ -6,10 +6,7 @@ This repository contains the source code for the Tea Cozy website, which is a pr
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The Tea Cozy website is a simple, responsive site designed to showcase the use of CSS Flexbox for creating flexible and adaptive layouts. The site features a clean and modern design, with sections for a tea shop's homepage, menu, locations, and contact information.
